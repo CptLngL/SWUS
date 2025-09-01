@@ -1,160 +1,150 @@
 {
   "metadata": {
-    "name": "Luke SOR starter"
+    "name": "Spark of Rebellion - Darth Vader Starter"
   },
   "leader": {
-    "id": "SOR_005",
+    "id": "SOR_010",
     "count": 1
   },
   "base": {
-    "id": "SOR_029",
+    "id": "SOR_023",
     "count": 1
   },
   "deck": [
     {
       "unit": "Unit",
-      "id": "SOR_059",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_236",
-      "count": 3
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_238",
-      "count": 3
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_239",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_189",
-      "count": 3
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_194",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_240",
-      "count": 3
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_045",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_063",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_046",
-      "count": 3
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_242",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_244",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_196",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_048",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_049",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_198",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_237",
-      "count": 3
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_044",
+      "id": "SOR_232",
       "count": 2
     },
     {
       "unit": "Unit",
-      "id": "SOR_241",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_066",
-      "count": 1
-    },
-    {
-      "unit": "Unit",
-      "id": "SOR_195",
-      "count": 1
-    },
-    {
-      "unit": "Event",
-      "id": "SOR_074",
-      "count": 2
-    },
-    {
-      "unit": "Event",
-      "id": "SOR_217",
-      "count": 1
-    },
-    {
-      "unit": "Event",
-      "id": "SOR_218",
-      "count": 2
-    },
-    {
-      "unit": "Event",
-      "id": "SOR_220",
-      "count": 2
-    },
-    {
-      "unit": "Event",
-      "id": "SOR_222",
-      "count": 2
-    },
-    {
-      "unit": "Event",
-      "id": "SOR_078",
+      "id": "SOR_226",
       "count": 3
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_129",
+      "count": 1
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_079",
+      "count": 1
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_088",
+      "count": 1
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_229",
+      "count": 3
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_128",
+      "count": 3
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_135",
+      "count": 1
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_130",
+      "count": 2
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_230",
+      "count": 1
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_084",
+      "count": 3
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_227",
+      "count": 2
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_083",
+      "count": 3
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_228",
+      "count": 2
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_086",
+      "count": 1
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_132",
+      "count": 3
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_089",
+      "count": 1
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_231",
+      "count": 1
+    },
+    {
+      "unit": "Unit",
+      "id": "SOR_225",
+      "count": 2
     },
     {
       "unit": "Upgrade",
-      "id": "SOR_069",
+      "id": "SOR_136",
+      "count": 3
+    },
+    {
+      "unit": "Event",
+      "id": "SOR_139",
       "count": 1
     },
     {
-      "unit": "Upgrade",
-      "id": "SOR_053",
+      "unit": "Event",
+      "id": "SOR_233",
       "count": 3
+    },
+    {
+      "unit": "Event",
+      "id": "SOR_234",
+      "count": 1
+    },
+    {
+      "unit": "Event",
+      "id": "SOR_172",
+      "count": 3
+    },
+    {
+      "unit": "Event",
+      "id": "SOR_092",
+      "count": 1
+    },
+    {
+      "unit": "Event",
+      "id": "SOR_123",
+      "count": 1
+    },
+    {
+      "unit": "Event",
+      "id": "SOR_126",
+      "count": 1
     }
   ]
 }
